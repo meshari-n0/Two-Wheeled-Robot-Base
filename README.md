@@ -13,4 +13,4 @@ adequate strength for a two-wheeled robot base.
 
 ## Design Preview
 
-<img width="495" height="566" alt="Screenshot training-shape" src="https://github.com/user-attachments/assets/e3c6d6e7-30d8-4481-ac17-e9d46db674ad" />
+<img width="1874" height="949" alt="Screenshot Two-Wheeled-Robot-Base (1)" src="https://github.com/user-attachments/assets/201b6af6-6c18-4640-9ee8-4071136e36dd" />
