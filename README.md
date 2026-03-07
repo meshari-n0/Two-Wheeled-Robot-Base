@@ -10,3 +10,7 @@ The robot uses differential drive for movement and turning.
 ## Material: PLA
 PLA was selected due to its lightweight properties, ease of printing, and
 adequate strength for a two-wheeled robot base.
+
+## Design Preview
+
+<img width="495" height="566" alt="Screenshot training-shape" src="https://github.com/user-attachments/assets/e3c6d6e7-30d8-4481-ac17-e9d46db674ad" />
